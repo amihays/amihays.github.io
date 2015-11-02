@@ -18,6 +18,10 @@
 		vertical-align: baseline;
 	}
 
+	header.major.center {
+		text-align: center;
+		padding-top: 20px;
+	}
 	a.site-link {
 		text-decoration: underline;
 	}
