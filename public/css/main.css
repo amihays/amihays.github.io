@@ -17,6 +17,14 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
+/*
+	a.clickable.image.cover.kirby {
+		background-image: url("../images/kirby-krash.png");
+		background-size: cover;
+		width: 40%;
+		height: 100%;
+		overflow: hidden;
+	}*/
 
 	header.major.center {
 		text-align: center;
