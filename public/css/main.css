@@ -27,7 +27,7 @@
 	}
 
 	.prof-pic {
-		background-image: url("../../images/ami_portfolio_pic.jpg");
+		background-image: url("../images/ami_portfolio_pic.jpg");
 		width: 250px;
 		height: 250px;
 		background-size: cover;
